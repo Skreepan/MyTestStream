@@ -58,8 +58,8 @@ namespace MyTestStream
         private OrderUpdate orderUpdate = new OrderUpdate();
         private LevelsHL levelsHL = new LevelsHL();
 
-        private string apiKEY = "CCnFO0cWkKEYrk0igQ3HfBsjlZwY3fJDRpuD63UaVwPeMo2BQsVsCt46mJ71dOLo";
-        private string secretKey = "aoRcMeDvSaMj1kRttznetMOrLhybGv5Dx0CYGVUUgUw83H5saQ4xhyGu0j1fddmy";
+        private string apiKEY = "";
+        private string secretKey = "";
         private WebRequest webRequestBuy;
         private WebRequest webRequestSell;
         private WebRequest webRequestSL;
